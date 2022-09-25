@@ -7,4 +7,17 @@ Snake and apple is a simple game where when snake eats an apple it gets longer a
 
 **Pre-requisites**
 1. Install [Pygame](https://www.pygame.org) library/module in your directory where you are creating your project from.
-# pip install pygame
+$ pip install pygame
+
+
+
+##About the Authors
+1. Ssettuba Lawrence [Git-Handle](www.github.com/nanostarlee) [Twitter-Handle](www.twittercom/nanostarlee?t=CLj-Fh0LEpGlajTLLYqH7g&s=09)
+2. Kantono Lauryn Laeticia
+3. Namugwanya Mary Patience
+4. Musinguzi Rodney
+5. Derrick Sekidde
+6. Nankya Elsa
+7. Tuyishimire Bertrand
+8. Erick Busuulwa
+9. TUKASINGURA RICHARD

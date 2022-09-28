@@ -12,8 +12,8 @@ After installing Pygame we are ready to create our cool snake game.
 
 
 # About the Authors
-1. Ssettuba Lawrence [GitHub-Handle](https://www.github.com/nanostarlee) and [Twitter-Handle](https://www.twittercom/nanostarlee?t=CLj-Fh0LEpGlajTLLYqH7g&s=09)
-2. Kantono Lauryn Laeticia
+1. Ssettuba Lawrence [GitHub-Handle](https://www.github.com/nanostarlee) and [Twitter-Handle](https://www.twittercom/nanostarlee)
+2. Kantono Lauryn Laeticia  [GitHub-Handle](https://www.github.com/Laurynnnn) and [Twitter-Handle](https://twitter.com/laurynlela26)
 3. Namugwanya Mary Patience
 4. Musinguzi Rodney
 5. Derrick Sekidde

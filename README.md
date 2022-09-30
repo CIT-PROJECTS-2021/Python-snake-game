@@ -9,7 +9,7 @@ Install [Pygame](https://www.pygame.org) library/module in your directory where 
 # $ pip install pygame
 After installing Pygame we are ready to create our cool snake game.
 Then go ahead and run the **toyota_snake_game.py** file to run our project.
-![Game Preview](game_preview.gif)
+
 
 # About the Authors
 1. Ssettuba Lawrence [GitHub-Handle](https://www.github.com/nanostarlee) and [Twitter-Handle](https://www.twittercom/nanostarlee)

@@ -12,7 +12,7 @@ Then go ahead and run the **toyota_snake_game.py** file to run our project.
 
 
 # About the Authors
-1. Ssettuba Lawrence [GitHub-Handle](https://www.github.com/nanostarlee) and [Twitter-Handle](https://www.twittercom/nanostarlee)
+1. Ssettuba Lawrence [GitHub-Handle](https://www.github.com/nanostarlee) and [Twitter-Handle](www.twittercom/nanostarlee?t=CLj-Fh0LEpGlajTLLYqH7g&s=09)
 2. Kantono Lauryn Laeticia  [GitHub-Handle](https://www.github.com/Laurynnnn) and [Twitter-Handle](https://twitter.com/laurynlela26)
 3. Namugwanya Mary Patience
 4. Musinguzi Rodney
